@@ -1,8 +1,6 @@
 <div align="center">
 
-# Vinicius Lima Pereira
-
-**Estudante de Sistemas de Informação · Back-end · Front-end · UI/UX**
+<img src="banner.svg" alt="Vinicius Lima Pereira" width="100%">
 
 Curitiba, PR · Universidade Positivo
 
@@ -32,14 +30,14 @@ Atualmente aprofunda os estudos em C# e .NET (ASP.NET Core e Entity Framework), 
 
 **Frameworks e ferramentas**
 
-![.NET](https://img.shields.io/badge/.NET-4A5C58?style=flat-square)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-4A5C58?style=flat-square)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-4A5C58?style=flat-square)
-![React](https://img.shields.io/badge/React-4A5C58?style=flat-square)
-![MySQL](https://img.shields.io/badge/MySQL-4A5C58?style=flat-square)
-![Git](https://img.shields.io/badge/Git-4A5C58?style=flat-square)
-![GitHub](https://img.shields.io/badge/GitHub-4A5C58?style=flat-square)
-![Figma](https://img.shields.io/badge/Figma-4A5C58?style=flat-square)
+![.NET](https://img.shields.io/badge/.NET-6F9488?style=flat-square)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-6F9488?style=flat-square)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-6F9488?style=flat-square)
+![React](https://img.shields.io/badge/React-6F9488?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-6F9488?style=flat-square)
+![Git](https://img.shields.io/badge/Git-6F9488?style=flat-square)
+![GitHub](https://img.shields.io/badge/GitHub-6F9488?style=flat-square)
+![Figma](https://img.shields.io/badge/Figma-6F9488?style=flat-square)
 
 ## Projetos
 
