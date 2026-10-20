@@ -85,4 +85,3 @@ Inglês (intermediário) · Libras (intermediário)
 
 [LinkedIn](https://www.linkedin.com/in/viniciuslimape) · [E-mail](mailto:viniciuslimap.vlp@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4A5C58&height=110&section=footer" alt="" width="100%">
