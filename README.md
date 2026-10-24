@@ -26,27 +26,31 @@ Sou estudante de Sistemas de Informação (4º período) na Universidade Positiv
 
 <div align="center">
 
-**Back-end**<br>
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge)
-
-**Front-end**<br>
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**Banco de dados**<br>
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-
-**Ferramentas e design**<br>
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<table>
+  <tr>
+    <th align="left">Back-end</th>
+    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/java/java-original.svg" width="44" height="44" alt="Java" /><br /><sub>Java</sub></td>
+    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/csharp/csharp-original.svg" width="44" height="44" alt="C#" /><br /><sub>C#</sub></td>
+    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/dotnetcore/dotnetcore-original.svg" width="44" height="44" alt=".NET" /><br /><sub>.NET<br />ASP.NET Core</sub></td>
+    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/entityframeworkcore/entityframeworkcore-original.svg" width="44" height="44" alt="Entity Framework" /><br /><sub>Entity<br />Framework</sub></td>
+  </tr>
+  <tr>
+    <th align="left">Front-end</th>
+    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/html5/html5-original.svg" width="44" height="44" alt="HTML" /><br /><sub>HTML</sub></td>
+    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/css3/css3-original.svg" width="44" height="44" alt="CSS" /><br /><sub>CSS</sub></td>
+    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/javascript/javascript-original.svg" width="44" height="44" alt="JavaScript" /><br /><sub>JavaScript</sub></td>
+    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/react/react-original.svg" width="44" height="44" alt="React" /><br /><sub>React</sub></td>
+  </tr>
+  <tr>
+    <th align="left">Banco de dados</th>
+    <td align="center" valign="top" colspan="4"><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/mysql/mysql-original.svg" width="44" height="44" alt="MySQL" /><br /><sub>MySQL · SQL</sub></td>
+  </tr>
+  <tr>
+    <th align="left">Ferramentas e design</th>
+    <td align="center" valign="top" colspan="2"><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/git/git-original.svg" width="44" height="44" alt="Git" /><br /><sub>Git · GitHub</sub></td>
+    <td align="center" valign="top" colspan="2"><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/figma/figma-original.svg" width="44" height="44" alt="Figma" /><br /><sub>Figma<br />UI/UX</sub></td>
+  </tr>
+</table>
 
 </div>
 
