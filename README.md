@@ -4,7 +4,6 @@
 
 **Estudante de Sistemas de Informação · Back-end · Front-end · UI/UX**
 
-*Unindo código e experiência do usuário.*
 
 📍 Curitiba, PR &nbsp;·&nbsp; 🎓 Universidade Positivo &nbsp;·&nbsp; 🔎 Em busca de uma oportunidade em TI
 
