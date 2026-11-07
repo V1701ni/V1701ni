@@ -1,4 +1,4 @@
- <div align="center">
+  <div align="center">
 
 # Vinicius Lima Pereira
 
@@ -48,8 +48,7 @@ Gosto de compreender o funcionamento das aplicações de ponta a ponta, desde a 
   </tr>
   <tr>
     <th align="left">Ferramentas</th>
-    <td align="center" valign="top" colspan="2"><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/git/git-original.svg" width="44" height="44" alt="Git" /><br /><sub>Git · GitHub</sub></td>
-    <td align="center" valign="top" colspan="2"><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/docker/docker-original.svg" width="44" height="44" alt="Docker" /><br /><sub>Docker</sub></td>
+    <td align="center" valign="top" colspan="4"><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/git/git-original.svg" width="44" height="44" alt="Git" /><br /><sub>Git · GitHub</sub></td>
   </tr>
 </table>
 
@@ -67,6 +66,7 @@ Plataforma web desenvolvida em equipe (6 integrantes) que conecta literatura e c
 A proposta do Resenhário é permitir que usuários explorem livros e suas adaptações cinematográficas, organizem suas experiências de leitura e compartilhem opiniões por meio de resenhas.
 
 **Principais funcionalidades:**
+
 - Cadastro e autenticação de usuários.
 - Proteção de senhas com hash BCrypt e autenticação baseada em JWT.
 - Catálogo de livros e filmes, com informações obtidas por integrações externas.
@@ -76,6 +76,7 @@ A proposta do Resenhário é permitir que usuários explorem livros e suas adapt
 - Relação entre obras literárias e suas adaptações cinematográficas.
 
 **Aspectos técnicos:**
+
 - API REST desenvolvida com C# e ASP.NET Core.
 - Persistência de dados com Entity Framework Core e MySQL.
 - Separação entre responsabilidades da aplicação e acesso aos dados.
@@ -113,7 +114,7 @@ Projeto acadêmico de modelagem e implementação de banco de dados relacional u
 
 ## 🎓 Formação e idiomas
 
-- **Sistemas de Informação** — Universidade Positivo (2025 – 2028, previsão).
+- **Sistemas de Informação** — Universidade Positivo (2025–2028, previsão de conclusão).
 - **UX Design** — Google + CIEE (2022).
 - **Inglês:** intermediário.
 - **Libras:** intermediário.
@@ -123,5 +124,4 @@ Projeto acadêmico de modelagem e implementação de banco de dados relacional u
 Estou aberto a oportunidades de estágio em desenvolvimento de software, especialmente nas áreas de back-end e desenvolvimento web.
 
 Entre em contato pelo [LinkedIn](https://www.linkedin.com/in/viniciuslimape) ou por [e-mail](mailto:viniciuslimap.vlp@gmail.com).
-
 
