@@ -1,3 +1,4 @@
+[README (2).md](https://github.com/user-attachments/files/35495235/README.2.md)
 <div align="center">
 
 # Vinicius Lima Pereira
@@ -138,6 +139,38 @@ Sou estudante de **Sistemas de Informação** na Universidade Positivo e gosto d
 </details>
 
 `C#` `ASP.NET Core` `Entity Framework Core` `MySQL` `React` `JWT` `BCrypt` `REST API`
+
+<br />
+
+### 🔎 TruthBot
+
+> Bot de Discord que checa fatos: o usuário manda uma afirmação com `/factcheck`, o bot pesquisa fontes na web e a IA devolve um veredito com justificativa e links.
+
+[![Código](https://img.shields.io/badge/C%C3%B3digo-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/V1701ni/truthbot)
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-F4B400?style=flat-square)
+
+<details>
+<summary><b>Funcionalidades</b></summary>
+<br />
+
+- Veredito em quatro categorias (Verdadeira, Falsa, Parcialmente verdadeira e Inconclusiva), com até três fontes.
+- Só dá veredito com fontes de pelo menos três sites diferentes. Se as fontes se contradizem, explica o conflito em vez de forçar uma conclusão.
+- Cooldown de 30 segundos por usuário e divisão automática de respostas longas.
+
+</details>
+
+<details>
+<summary><b>Aspectos técnicos</b></summary>
+<br />
+
+- Busca de fontes com a API do Tavily e análise com o Google Gemini.
+- Filtro de fontes: descarta links inválidos, URLs repetidas e páginas do mesmo site.
+- Proteção contra prompt injection: instruções separadas do conteúdo externo, que vai marcado em tags e com os caracteres especiais escapados.
+- A checagem roda em outra thread, sem travar o bot.
+
+</details>
+
+`Python` `discord.py` `Google Gemini` `Tavily` `IA` `Prompt injection`
 
 <br />
 
