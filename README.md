@@ -124,7 +124,6 @@ App web de orçamentos e pedidos que criei para a **RAP Representações**, a em
 Plataforma web feita em equipe (6 integrantes) que conecta literatura e cinema: os usuários exploram livros e suas adaptações, organizam as leituras e publicam resenhas.
 
 [![Código](https://img.shields.io/badge/C%C3%B3digo-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/V1701ni/Resenh-rio)
-[![Site no ar](https://img.shields.io/badge/Site-no%20ar-1D3F8F?style=flat-square)](https://resenh-rio.onrender.com)
 
 <details>
 <summary><b>Funcionalidades</b></summary>
@@ -200,7 +199,7 @@ Bot de Discord feito em dupla que checa fatos: o usuário manda uma afirmação 
     <th align="left" width="22%">Tecnologias</th>
   </tr>
   <tr>
-    <td>🏗️ <b>Site da RAP Representações</b><br /><sub>Representação comercial de aço</sub></td>
+    <td>🏗️ <b>Site da RAP Representações</b><br /><sub><a href="https://rap-representacoes.onrender.com">rap-representacoes.onrender.com</a></sub></td>
     <td>Site institucional com as linhas de produto, depoimentos, perguntas frequentes e um formulário de cotação que monta a mensagem e abre o WhatsApp. Divulgado com Google Ads, com medição de conversões pelo Google Tag Manager.</td>
     <td><code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>SEO</code> <code>Google Ads</code></td>
   </tr>
