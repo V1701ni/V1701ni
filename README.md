@@ -56,8 +56,8 @@ Gosto de construir software de ponta a ponta: entender quem vai usar, modelar os
   </tr>
   <tr>
     <td nowrap><b>Ferramentas</b></td>
-    <td nowrap><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/git/git-original.svg" width="34" height="34" alt="Git" title="Git" />&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF" /><img src="https://cdn.simpleicons.org/github/181717" width="34" height="34" alt="GitHub" title="GitHub" /></picture>&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/figma/figma-original.svg" width="34" height="34" alt="Figma" title="Figma" /></td>
-    <td><b>Git e GitHub</b> para versionar e publicar · <b>Figma</b> para prototipar telas antes de programar</td>
+    <td nowrap><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/git/git-original.svg" width="34" height="34" alt="Git" title="Git" />&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF" /><img src="https://cdn.simpleicons.org/github/181717" width="34" height="34" alt="GitHub" title="GitHub" /></picture>&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/figma/figma-original.svg" width="34" height="34" alt="Figma" title="Figma" />&nbsp;<img src="https://cdn.simpleicons.org/googleads" width="34" height="34" alt="Google Ads" title="Google Ads" /></td>
+    <td><b>Git e GitHub</b> para versionar e publicar · <b>Figma</b> para prototipar telas antes de programar · <b>Google Ads</b> para divulgar os sites e medir conversões</td>
   </tr>
 </table>
 
@@ -156,7 +156,7 @@ Plataforma web feita em equipe (6 integrantes) que conecta literatura e cinema: 
 
 ### 🔎 TruthBot
 
-Bot de Discord que checa fatos: o usuário manda uma afirmação com `/factcheck`, o bot pesquisa fontes na web e a IA devolve um veredito com justificativa e links.
+Bot de Discord feito em dupla que checa fatos: o usuário manda uma afirmação com `/factcheck`, o bot pesquisa fontes na web e a IA devolve um veredito com justificativa e links.
 
 [![Código](https://img.shields.io/badge/C%C3%B3digo-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/V1701ni/truthbot)
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-F4B400?style=flat-square)
