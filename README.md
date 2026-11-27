@@ -1,4 +1,4 @@
-[README (5).md](https://github.com/user-attachments/files/35495421/README.5.md)
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F4D,55:1D3F8F,100:3F6FD8&height=210&section=header&text=Vinicius%20Lima%20Pereira&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Estudante%20de%20Sistemas%20de%20Informa%C3%A7%C3%A3o%20%C2%B7%20Back-end%20e%20Front-end&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Vinicius Lima Pereira, estudante de Sistemas de Informação" />
