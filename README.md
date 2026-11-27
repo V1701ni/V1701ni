@@ -1,11 +1,7 @@
-
+[README (6).md](https://github.com/user-attachments/files/35495461/README.6.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F4D,55:1D3F8F,100:3F6FD8&height=210&section=header&text=Vinicius%20Lima%20Pereira&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Estudante%20de%20Sistemas%20de%20Informa%C3%A7%C3%A3o%20%C2%B7%20Back-end%20e%20Front-end&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Vinicius Lima Pereira, estudante de Sistemas de Informação" />
-
-**Construo software que resolve problemas reais, do requisito ao app no ar.**
-
-<br />
 
 <table>
   <tr>
@@ -60,7 +56,7 @@ Gosto de construir software de ponta a ponta: entender quem vai usar, modelar os
   </tr>
   <tr>
     <td nowrap><b>Ferramentas</b></td>
-    <td nowrap><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/git/git-original.svg" width="34" height="34" alt="Git" title="Git" />&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/github/github-original.svg" width="34" height="34" alt="GitHub" title="GitHub" />&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/figma/figma-original.svg" width="34" height="34" alt="Figma" title="Figma" /></td>
+    <td nowrap><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/git/git-original.svg" width="34" height="34" alt="Git" title="Git" />&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF" /><img src="https://cdn.simpleicons.org/github/181717" width="34" height="34" alt="GitHub" title="GitHub" /></picture>&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/figma/figma-original.svg" width="34" height="34" alt="Figma" title="Figma" /></td>
     <td><b>Git e GitHub</b> para versionar e publicar · <b>Figma</b> para prototipar telas antes de programar</td>
   </tr>
 </table>
