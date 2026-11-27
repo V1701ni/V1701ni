@@ -1,4 +1,4 @@
-[README (6).md](https://github.com/user-attachments/files/35495461/README.6.md)
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F4D,55:1D3F8F,100:3F6FD8&height=210&section=header&text=Vinicius%20Lima%20Pereira&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Estudante%20de%20Sistemas%20de%20Informa%C3%A7%C3%A3o%20%C2%B7%20Back-end%20e%20Front-end&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Vinicius Lima Pereira, estudante de Sistemas de Informação" />
@@ -198,6 +198,16 @@ Bot de Discord que checa fatos: o usuário manda uma afirmação com `/factcheck
     <th align="left" width="28%">Projeto</th>
     <th align="left">O que fiz</th>
     <th align="left" width="22%">Tecnologias</th>
+  </tr>
+  <tr>
+    <td>🏗️ <b>Site da RAP Representações</b><br /><sub>Representação comercial de aço</sub></td>
+    <td>Site institucional com as linhas de produto, depoimentos, perguntas frequentes e um formulário de cotação que monta a mensagem e abre o WhatsApp. Divulgado com Google Ads, com medição de conversões pelo Google Tag Manager.</td>
+    <td><code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>SEO</code> <code>Google Ads</code></td>
+  </tr>
+  <tr>
+    <td>🌿 <b>Site da CR Jardinagem</b><br /><sub><a href="https://crjardinagem.onrender.com">crjardinagem.onrender.com</a></sub></td>
+    <td>Site de jardinagem em Curitiba, responsivo, com serviços, galeria de antes e depois, perguntas frequentes e orçamento pelo WhatsApp. Tem SEO local (dados estruturados), Google Tag Manager para medir as conversões do Google Ads e política de privacidade.</td>
+    <td><code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>SEO</code> <code>Google Ads</code></td>
   </tr>
   <tr>
     <td>🏢 <b>Sistema de Gestão Comercial</b></td>
