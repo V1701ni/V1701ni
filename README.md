@@ -1,4 +1,4 @@
-[README (3).md](https://github.com/user-attachments/files/35495315/README.3.md)
+[README (4).md](https://github.com/user-attachments/files/35495349/README.4.md)
 <div align="center">
 
 # Vinicius Lima Pereira
@@ -25,7 +25,7 @@
 
 <br />
 
-## Sobre mim
+## 👋 Sobre mim
 
 Gosto de construir software de ponta a ponta: entender quem vai usar, modelar os dados, implementar e colocar no ar.
 
@@ -35,30 +35,30 @@ Gosto de construir software de ponta a ponta: entender quem vai usar, modelar os
 
 <br />
 
-## Tecnologias
+## 🛠️ Tecnologias
 
 <table>
   <tr>
-    <td width="170"><b>Linguagens</b></td>
-    <td><img src="https://skillicons.dev/icons?i=java,py,cs,js" height="44" alt="Java, Python, C# e JavaScript" /></td>
+    <td width="150" nowrap><b>Linguagens</b></td>
+    <td><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/java/java-original.svg" width="36" height="36" alt="Java" title="Java" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/python/python-original.svg" width="36" height="36" alt="Python" title="Python" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/csharp/csharp-original.svg" width="36" height="36" alt="C#" title="C#" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;<sub>Java, Python, C#, JavaScript</sub></td>
   </tr>
   <tr>
-    <td><b>Web</b></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css" height="44" alt="HTML e CSS" /></td>
+    <td width="150" nowrap><b>Web</b></td>
+    <td><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/html5/html5-original.svg" width="36" height="36" alt="HTML" title="HTML" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/css3/css3-original.svg" width="36" height="36" alt="CSS" title="CSS" />&nbsp;&nbsp;<sub>HTML, CSS</sub></td>
   </tr>
   <tr>
-    <td><b>Dados e nuvem</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mysql,firebase" height="44" alt="MySQL e Firebase" /></td>
+    <td width="150" nowrap><b>Banco de dados</b></td>
+    <td><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" title="MySQL" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/firebase" width="36" height="36" alt="Firebase" title="Firebase" />&nbsp;&nbsp;<sub>MySQL, Firebase</sub></td>
   </tr>
   <tr>
-    <td><b>Ferramentas</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,figma" height="44" alt="Git, GitHub e Figma" /></td>
+    <td width="150" nowrap><b>Ferramentas</b></td>
+    <td><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/git/git-original.svg" width="36" height="36" alt="Git" title="Git" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/github/github-original.svg" width="36" height="36" alt="GitHub" title="GitHub" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/figma/figma-original.svg" width="36" height="36" alt="Figma" title="Figma" />&nbsp;&nbsp;<sub>Git, GitHub, Figma</sub></td>
   </tr>
 </table>
 
 <br />
 
-## Projetos
+## 🚀 Projetos
 
 ### ⭐ RAP Orçamentos
 
@@ -213,7 +213,7 @@ Bot de Discord que checa fatos: o usuário manda uma afirmação com `/factcheck
 
 <br />
 
-## Formação e idiomas
+## 🎓 Formação e idiomas
 
 <table>
   <tr>
