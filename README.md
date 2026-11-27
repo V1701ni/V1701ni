@@ -1,4 +1,3 @@
-[README (2).md](https://github.com/user-attachments/files/35495235/README.2.md)
 <div align="center">
 
 # Vinicius Lima Pereira
@@ -34,9 +33,8 @@ Sou estudante de **Sistemas de Informação** na Universidade Positivo e gosto d
 <table>
   <tr>
     <td align="center" width="110"><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/java/java-original.svg" width="40" height="40" alt="Java" /><br /><sub><b>Java</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/python/python-original.svg" width="40" height="40" alt="Python" /><br /><sub><b>Python</b></sub></td>
     <td align="center" width="110"><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" /><br /><sub><b>C#</b></sub></td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" alt=".NET" /><br /><sub><b>ASP.NET Core</b></sub></td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/entityframeworkcore/entityframeworkcore-original.svg" width="40" height="40" alt="Entity Framework Core" /><br /><sub><b>EF Core</b></sub></td>
     <td align="center" width="110"><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" /><br /><sub><b>MySQL</b></sub></td>
     <td align="center" width="110"><img src="https://cdn.simpleicons.org/firebase" width="40" height="40" alt="Firebase" /><br /><sub><b>Firebase</b></sub></td>
   </tr>
@@ -44,7 +42,6 @@ Sou estudante de **Sistemas de Informação** na Universidade Positivo e gosto d
     <td align="center" width="110"><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/html5/html5-original.svg" width="40" height="40" alt="HTML" /><br /><sub><b>HTML</b></sub></td>
     <td align="center" width="110"><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/css3/css3-original.svg" width="40" height="40" alt="CSS" /><br /><sub><b>CSS</b></sub></td>
     <td align="center" width="110"><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /><br /><sub><b>JavaScript</b></sub></td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/react/react-original.svg" width="40" height="40" alt="React" /><br /><sub><b>React</b></sub></td>
     <td align="center" width="110"><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/git/git-original.svg" width="40" height="40" alt="Git" /><br /><sub><b>Git · GitHub</b></sub></td>
     <td align="center" width="110"><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" /><br /><sub><b>Figma</b></sub></td>
   </tr>
@@ -70,7 +67,7 @@ Sou estudante de **Sistemas de Informação** na Universidade Positivo e gosto d
   </tr>
   <tr>
     <td><b>Meu papel</b></td>
-    <td>Levantamento de requisitos com o usuário, definição das funcionalidades, testes de cada versão no uso real, publicação e suporte. O código foi desenvolvido com apoio de IA (Claude): eu decidi o que construir, validei com o usuário e escolhi o que mudar a cada versão.</td>
+    <td>Levantamento de requisitos com o usuário, definição das funcionalidades, desenvolvimento, testes de cada versão no uso real, publicação e suporte.</td>
   </tr>
   <tr>
     <td><b>Resultado</b></td>
