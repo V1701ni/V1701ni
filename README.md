@@ -1,25 +1,25 @@
-
+[README (5).md](https://github.com/user-attachments/files/35495421/README.5.md)
 <div align="center">
 
-# Vinicius Lima Pereira
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F4D,55:1D3F8F,100:3F6FD8&height=210&section=header&text=Vinicius%20Lima%20Pereira&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Estudante%20de%20Sistemas%20de%20Informa%C3%A7%C3%A3o%20%C2%B7%20Back-end%20e%20Front-end&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Vinicius Lima Pereira, estudante de Sistemas de Informação" />
 
-**Estudante de Sistemas de Informação, construindo software que resolve problemas reais.**
+**Construo software que resolve problemas reais, do requisito ao app no ar.**
 
 <br />
 
 <table>
   <tr>
     <td align="center" width="230">🎓<br /><b>Sistemas de Informação</b><br /><sub>Universidade Positivo · 5º período</sub></td>
-    <td align="center" width="230">💻<br /><b>Back-end e Front-end</b><br /><sub>Do requisito ao app no ar</sub></td>
+    <td align="center" width="230">🚀<br /><b>App em uso real</b><br /><sub>RAP Orçamentos, desde nov/2026</sub></td>
     <td align="center" width="230">🔎<br /><b>Buscando estágio</b><br /><sub>Desenvolvimento · Curitiba, PR</sub></td>
   </tr>
 </table>
 
 <br />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1D3F8F?style=for-the-badge)](https://www.linkedin.com/in/viniciuslimape)
-[![E-mail](https://img.shields.io/badge/E--mail-1D3F8F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciuslimap.vlp@gmail.com)
-[![RAP Orçamentos](https://img.shields.io/badge/RAP%20Or%C3%A7amentos-no%20ar-0B1F4D?style=for-the-badge&labelColor=1D3F8F)](https://rap-representa-es-or-amentos.onrender.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/viniciuslimape)
+[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciuslimap.vlp@gmail.com)
+[![RAP Orçamentos](https://img.shields.io/badge/RAP%20Or%C3%A7amentos-no%20ar-3F6FD8?style=for-the-badge&labelColor=0B1F4D)](https://rap-representa-es-or-amentos.onrender.com)
 
 </div>
 
@@ -39,20 +39,29 @@ Gosto de construir software de ponta a ponta: entender quem vai usar, modelar os
 
 <table>
   <tr>
-    <td width="150" nowrap><b>Linguagens</b></td>
-    <td><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/java/java-original.svg" width="36" height="36" alt="Java" title="Java" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/python/python-original.svg" width="36" height="36" alt="Python" title="Python" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/csharp/csharp-original.svg" width="36" height="36" alt="C#" title="C#" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;<sub>Java, Python, C#, JavaScript</sub></td>
+    <th align="left" width="120">Área</th>
+    <th align="left" width="200">Tecnologias</th>
+    <th align="left">Como uso</th>
   </tr>
   <tr>
-    <td width="150" nowrap><b>Web</b></td>
-    <td><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/html5/html5-original.svg" width="36" height="36" alt="HTML" title="HTML" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/css3/css3-original.svg" width="36" height="36" alt="CSS" title="CSS" />&nbsp;&nbsp;<sub>HTML, CSS</sub></td>
+    <td nowrap><b>Linguagens</b></td>
+    <td nowrap><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/java/java-original.svg" width="34" height="34" alt="Java" title="Java" />&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/python/python-original.svg" width="34" height="34" alt="Python" title="Python" />&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/csharp/csharp-original.svg" width="34" height="34" alt="C#" title="C#" />&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/javascript/javascript-original.svg" width="34" height="34" alt="JavaScript" title="JavaScript" /></td>
+    <td><b>Java</b> em sistemas com POO e MVC · <b>Python</b> no TruthBot · <b>C#</b> na API do Resenhário · <b>JavaScript</b> puro no RAP Orçamentos</td>
   </tr>
   <tr>
-    <td width="150" nowrap><b>Banco de dados</b></td>
-    <td><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" title="MySQL" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/firebase" width="36" height="36" alt="Firebase" title="Firebase" />&nbsp;&nbsp;<sub>MySQL, Firebase</sub></td>
+    <td nowrap><b>Web</b></td>
+    <td nowrap><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/html5/html5-original.svg" width="34" height="34" alt="HTML" title="HTML" />&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/css3/css3-original.svg" width="34" height="34" alt="CSS" title="CSS" /></td>
+    <td>Interfaces responsivas para celular e computador, app instalável (PWA) e PDF gerado no navegador</td>
   </tr>
   <tr>
-    <td width="150" nowrap><b>Ferramentas</b></td>
-    <td><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/git/git-original.svg" width="36" height="36" alt="Git" title="Git" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/github/github-original.svg" width="36" height="36" alt="GitHub" title="GitHub" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/figma/figma-original.svg" width="36" height="36" alt="Figma" title="Figma" />&nbsp;&nbsp;<sub>Git, GitHub, Figma</sub></td>
+    <td nowrap><b>Dados</b></td>
+    <td nowrap><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/mysql/mysql-original.svg" width="34" height="34" alt="MySQL" title="MySQL" />&nbsp;<img src="https://cdn.simpleicons.org/firebase" width="34" height="34" alt="Firebase" title="Firebase" /></td>
+    <td><b>MySQL</b> com JOIN, procedures e modelagem relacional · <b>Firebase</b> com login e sincronização na nuvem</td>
+  </tr>
+  <tr>
+    <td nowrap><b>Ferramentas</b></td>
+    <td nowrap><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/git/git-original.svg" width="34" height="34" alt="Git" title="Git" />&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/github/github-original.svg" width="34" height="34" alt="GitHub" title="GitHub" />&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/figma/figma-original.svg" width="34" height="34" alt="Figma" title="Figma" /></td>
+    <td><b>Git e GitHub</b> para versionar e publicar · <b>Figma</b> para prototipar telas antes de programar</td>
   </tr>
 </table>
 
