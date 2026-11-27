@@ -2,26 +2,29 @@
 
 # Vinicius Lima Pereira
 
-**Estudante de Sistemas de Informação · Desenvolvimento Back-end e Front-end**
+### Estudante de Sistemas de Informação · Desenvolvimento Back-end e Front-end
 
-📍 Curitiba, PR &nbsp;·&nbsp; 🎓 Universidade Positivo &nbsp;·&nbsp; 🔎 Em busca de estágio em desenvolvimento de software
+📍 Curitiba, PR &nbsp;·&nbsp; 🎓 Universidade Positivo, 5º período &nbsp;·&nbsp; 🔎 Em busca de estágio em desenvolvimento
+
+<br />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/viniciuslimape)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciuslimap.vlp@gmail.com)
+[![RAP Orçamentos](https://img.shields.io/badge/RAP%20Or%C3%A7amentos-no%20ar-1D3F8F?style=for-the-badge)](https://rap-representa-es-or-amentos.onrender.com)
 
 </div>
 
----
+<br />
 
-## 👋 Sobre
+## 👋 Sobre mim
 
-Sou estudante do 5º período de **Sistemas de Informação** na Universidade Positivo. Gosto de construir software de ponta a ponta: entender quem vai usar, modelar os dados, implementar as funcionalidades e colocar no ar.
+Sou estudante de **Sistemas de Informação** na Universidade Positivo e gosto de construir software de ponta a ponta: entender quem vai usar, modelar os dados, implementar e colocar no ar.
 
-Meu projeto mais recente está **em uso real**: um app de orçamentos e pedidos que criei para a empresa de representação comercial de aço do meu pai. Ele usa o app no dia a dia para atender clientes, e cada versão nasce do que ele precisa no trabalho.
+- 🚀 Criei e mantenho o **RAP Orçamentos**, um app de orçamentos e pedidos **em uso real** na empresa de representação comercial de aço do meu pai.
+- 💻 Na faculdade, trabalho com Java, orientação a objetos, C#, ASP.NET Core, SQL e desenvolvimento web.
+- 📈 Estou aprofundando APIs REST, arquitetura em camadas, persistência de dados e integração entre sistemas.
 
-Na faculdade, trabalho com Java, programação orientada a objetos, C#, ASP.NET Core, SQL e desenvolvimento web. Hoje estou aprofundando APIs REST, arquitetura em camadas, persistência de dados e integração entre sistemas.
-
-> **Em foco agora:** C#, .NET, ASP.NET Core, Entity Framework Core, React e APIs REST.
+<br />
 
 ## 🛠️ Tecnologias
 
@@ -29,50 +32,54 @@ Na faculdade, trabalho com Java, programação orientada a objetos, C#, ASP.NET 
 
 <table>
   <tr>
-    <th align="left">Back-end</th>
-    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/java/java-original.svg" width="44" height="44" alt="Java" /><br /><sub>Java</sub></td>
-    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/csharp/csharp-original.svg" width="44" height="44" alt="C#" /><br /><sub>C#</sub></td>
-    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/dotnetcore/dotnetcore-original.svg" width="44" height="44" alt=".NET" /><br /><sub>.NET<br />ASP.NET Core</sub></td>
-    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/entityframeworkcore/entityframeworkcore-original.svg" width="44" height="44" alt="Entity Framework" /><br /><sub>Entity<br />Framework Core</sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/java/java-original.svg" width="40" height="40" alt="Java" /><br /><sub><b>Java</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" /><br /><sub><b>C#</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" alt=".NET" /><br /><sub><b>ASP.NET Core</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/entityframeworkcore/entityframeworkcore-original.svg" width="40" height="40" alt="Entity Framework Core" /><br /><sub><b>EF Core</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" /><br /><sub><b>MySQL</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/firebase" width="40" height="40" alt="Firebase" /><br /><sub><b>Firebase</b></sub></td>
   </tr>
   <tr>
-    <th align="left">Front-end</th>
-    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/html5/html5-original.svg" width="44" height="44" alt="HTML" /><br /><sub>HTML</sub></td>
-    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/css3/css3-original.svg" width="44" height="44" alt="CSS" /><br /><sub>CSS</sub></td>
-    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/javascript/javascript-original.svg" width="44" height="44" alt="JavaScript" /><br /><sub>JavaScript</sub></td>
-    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/react/react-original.svg" width="44" height="44" alt="React" /><br /><sub>React</sub></td>
-  </tr>
-  <tr>
-    <th align="left">Dados e nuvem</th>
-    <td align="center" valign="top" colspan="2"><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/mysql/mysql-original.svg" width="44" height="44" alt="MySQL" /><br /><sub>MySQL · SQL</sub></td>
-    <td align="center" valign="top" colspan="2"><img src="https://cdn.simpleicons.org/firebase" width="44" height="44" alt="Firebase" /><br /><sub>Firebase<br />Auth · Firestore</sub></td>
-  </tr>
-  <tr>
-    <th align="left">Ferramentas</th>
-    <td align="center" valign="top" colspan="2"><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/git/git-original.svg" width="44" height="44" alt="Git" /><br /><sub>Git · GitHub</sub></td>
-    <td align="center" valign="top" colspan="2"><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/figma/figma-original.svg" width="44" height="44" alt="Figma" /><br /><sub>Figma</sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/html5/html5-original.svg" width="40" height="40" alt="HTML" /><br /><sub><b>HTML</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/css3/css3-original.svg" width="40" height="40" alt="CSS" /><br /><sub><b>CSS</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /><br /><sub><b>JavaScript</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/react/react-original.svg" width="40" height="40" alt="React" /><br /><sub><b>React</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/git/git-original.svg" width="40" height="40" alt="Git" /><br /><sub><b>Git · GitHub</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" /><br /><sub><b>Figma</b></sub></td>
   </tr>
 </table>
 
 </div>
 
+<br />
+
 ## 🚀 Projetos
 
-### 🧾 App de orçamentos e pedidos — em uso real
+### ⭐ RAP Orçamentos
 
-[![App no ar](https://img.shields.io/badge/App-no%20ar-1D3F8F?style=flat-square)](https://rap-representa-es-or-amentos.onrender.com)
+> App web de orçamentos e pedidos que criei para a **RAP Representações**, a empresa de representação comercial de aço do meu pai. Ele usa no dia a dia, no celular e no computador, para atender clientes.
 
-<p align="center">
-  <img src="./img/app-orcamentos.png" alt="App de orçamentos no computador e no celular: tela inicial, orçamento com itens e pedido em andamento" width="100%" />
-</p>
+[![Acessar o app](https://img.shields.io/badge/Acessar%20o%20app-1D3F8F?style=flat-square)](https://rap-representa-es-or-amentos.onrender.com)
+![Em uso real](https://img.shields.io/badge/status-em%20uso%20real-2E7D32?style=flat-square)
 
-Aplicativo web que criei para a **RAP Representações**, a empresa de representação comercial de aço do meu pai. Ele reúne todo o processo de venda em um só lugar, no celular e no computador: orçamento, cliente, pedido para o fornecedor e comissão. Está em uso desde novembro de 2026, com orçamentos reais enviados a clientes.
+<table>
+  <tr>
+    <td><b>O desafio</b></td>
+    <td>Reunir em um só lugar todo o processo de venda (orçamento, cliente, pedido para o fornecedor e comissão) para um usuário com pouca familiaridade com tecnologia. Cada tela foi pensada para ser simples e difícil de errar.</td>
+  </tr>
+  <tr>
+    <td><b>Meu papel</b></td>
+    <td>Levantamento de requisitos com o usuário, definição das funcionalidades, testes de cada versão no uso real, publicação e suporte. O código foi desenvolvido com apoio de IA (Claude): eu decidi o que construir, validei com o usuário e escolhi o que mudar a cada versão.</td>
+  </tr>
+  <tr>
+    <td><b>Resultado</b></td>
+    <td>Em uso desde novembro de 2026, com orçamentos reais enviados a clientes. As melhorias vêm do uso no dia a dia.</td>
+  </tr>
+</table>
 
-**O desafio:** o usuário principal não tem familiaridade com tecnologia. Por isso, cada tela foi pensada para ser simples e difícil de errar, e as mudanças vêm do uso no dia a dia: ele usa, eu observo onde trava e ajusto.
-
-**Meu papel:** levantamento de requisitos com o usuário, definição das funcionalidades, testes de cada versão no uso real, publicação e suporte. O código foi desenvolvido com apoio de IA (Claude): eu decidi o que construir, validei com o usuário e escolhi o que mudar a cada versão.
-
-**Principais funcionalidades:**
+<details>
+<summary><b>Funcionalidades</b></summary>
+<br />
 
 - Orçamentos com produtos de aço, descontos, frete, condições e validade, com PDF na identidade visual da empresa e envio pelo WhatsApp.
 - Calculadora de peso teórico do aço (chapas, perfis dobrados, tubos e barras), com bitolas pelas normas NBR 11888 e NBR 7013.
@@ -81,7 +88,11 @@ Aplicativo web que criei para a **RAP Representações**, a empresa de represent
 - Cadastro e histórico de clientes, com validação de CNPJ/CPF e consulta aos preços já praticados.
 - Comissão por fornecedor, relatório mensal, aviso de orçamentos para cobrar retorno e exportação para planilha.
 
-**Aspectos técnicos:**
+</details>
+
+<details>
+<summary><b>Aspectos técnicos</b></summary>
+<br />
 
 - JavaScript, HTML e CSS puros, sem framework, em uma interface responsiva (menu inferior no celular, lateral no computador) e instalável como PWA.
 - Offline-first: funciona sem internet, com os dados salvos no aparelho, e sincroniza celular e computador com Firebase Authentication e Cloud Firestore.
@@ -90,16 +101,22 @@ Aplicativo web que criei para a **RAP Representações**, a empresa de represent
 - PDF gerado no próprio navegador com jsPDF e publicação como site estático no Render, a partir do GitHub.
 - Pensado para quem tem pouca familiaridade com tecnologia: botões grandes, opção de texto maior, "Desfazer", lixeira e modo escuro.
 
+</details>
+
 `JavaScript` `HTML` `CSS` `PWA` `Firebase` `Cloud Firestore` `jsPDF` `Offline-first` `UX`
 
-### 📚 Resenhário — Plataforma de livros, filmes e resenhas
+<br />
+
+### 📚 Resenhário
+
+> Plataforma web feita em equipe (6 integrantes) que conecta literatura e cinema: os usuários exploram livros e suas adaptações, organizam as leituras e publicam resenhas.
 
 [![Código](https://img.shields.io/badge/C%C3%B3digo-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/V1701ni/Resenh-rio)
 [![Site no ar](https://img.shields.io/badge/Site-no%20ar-4A5C58?style=flat-square)](https://resenh-rio.onrender.com)
 
-Plataforma web desenvolvida em equipe (6 integrantes) que conecta literatura e cinema. Os usuários exploram livros e suas adaptações para o cinema, organizam as leituras e compartilham opiniões por meio de resenhas.
-
-**Principais funcionalidades:**
+<details>
+<summary><b>Funcionalidades</b></summary>
+<br />
 
 - Cadastro e autenticação de usuários, com senhas protegidas por hash BCrypt e autenticação baseada em JWT.
 - Catálogo de livros e filmes alimentado pela Google Books API e pela TMDB.
@@ -107,52 +124,76 @@ Plataforma web desenvolvida em equipe (6 integrantes) que conecta literatura e c
 - Resenhas e avaliações de 1 a 5 estrelas.
 - Relação entre obras literárias e suas adaptações cinematográficas.
 
-**Aspectos técnicos:**
+</details>
+
+<details>
+<summary><b>Aspectos técnicos</b></summary>
+<br />
 
 - API REST desenvolvida com C# e ASP.NET Core.
 - Persistência de dados com Entity Framework Core e MySQL.
 - Separação entre as responsabilidades da aplicação e o acesso aos dados.
 - Integração com serviços externos para consultar informações de livros e filmes.
 
+</details>
+
 `C#` `ASP.NET Core` `Entity Framework Core` `MySQL` `React` `JWT` `BCrypt` `REST API`
 
-### 🏢 Sistema de Gestão Comercial
+<br />
 
-Sistema em console, desenvolvido em Java com orientação a objetos, que representa o fluxo de uma operação comercial.
+### 🧩 Outros projetos
 
-- Cadastro de clientes, fornecedores e produtos.
-- Emissão de pedidos de venda.
-- Uso de herança, interfaces e classes abstratas.
-- Padrão Singleton e organização em camadas (MVC).
+<table>
+  <tr>
+    <th align="left" width="28%">Projeto</th>
+    <th align="left">O que fiz</th>
+    <th align="left" width="22%">Tecnologias</th>
+  </tr>
+  <tr>
+    <td>🏢 <b>Sistema de Gestão Comercial</b></td>
+    <td>Sistema em console com cadastro de clientes, fornecedores e produtos e emissão de pedidos de venda. Uso de herança, interfaces, classes abstratas, Singleton e camadas (MVC).</td>
+    <td><code>Java</code> <code>POO</code> <code>MVC</code></td>
+  </tr>
+  <tr>
+    <td>🗄️ <b>Modelagem de banco de dados</b></td>
+    <td>Banco relacional com chaves primárias e estrangeiras, consultas com JOIN, agregações e funções, e procedures para operações bancárias.</td>
+    <td><code>MySQL</code> <code>SQL</code></td>
+  </tr>
+  <tr>
+    <td>🏆 <b>Friends of Figma PUC</b><br /><sub>Projeto vencedor</sub></td>
+    <td>Desafio colaborativo em que o projeto vencedor foi uma página de prompts com inteligência artificial. Contribuí com a estrutura, a usabilidade e a prototipação.</td>
+    <td><code>Figma</code> <code>UX</code></td>
+  </tr>
+</table>
 
-`Java` `POO` `MVC`
-
-### 🗄️ Modelagem e implementação de banco de dados
-
-Projeto acadêmico de modelagem e implementação de um banco de dados relacional em MySQL.
-
-- Definição de tabelas, chaves primárias e estrangeiras.
-- Inserção e manipulação de dados.
-- Consultas com JOIN, agregações e funções.
-- Procedures e functions para operações bancárias.
-
-`MySQL` `SQL`
-
-### 🏆 Friends of Figma PUC — Projeto vencedor
-
-Participação no desafio colaborativo Friends of Figma PUC. O projeto vencedor foi uma página de prompts com inteligência artificial; contribuí com a estrutura, a usabilidade e a prototipação da solução.
-
-`Projeto colaborativo` `Figma` `UX`
+<br />
 
 ## 🎓 Formação e idiomas
 
-- **Sistemas de Informação** — Universidade Positivo (2025–2028, previsão de conclusão).
-- **UX Design** — Google + CIEE (2022).
-- **Inglês:** intermediário.
-- **Libras:** intermediário.
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <b>Sistemas de Informação</b><br />
+      Universidade Positivo · 2025–2028 (previsão)<br /><br />
+      <b>UX Design</b><br />
+      Google + CIEE · 2022
+    </td>
+    <td valign="top">
+      🇺🇸 <b>Inglês:</b> intermediário<br /><br />
+      🤟 <b>Libras:</b> intermediário
+    </td>
+  </tr>
+</table>
 
-## 📫 Contato
+<br />
 
-Estou aberto a oportunidades de estágio em desenvolvimento de software, especialmente em back-end e desenvolvimento web.
+<div align="center">
 
-Fale comigo pelo [LinkedIn](https://www.linkedin.com/in/viniciuslimape) ou por [e-mail](mailto:viniciuslimap.vlp@gmail.com).
+## 📫 Vamos conversar?
+
+Estou aberto a oportunidades de **estágio em desenvolvimento de software**, especialmente em back-end e desenvolvimento web.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-viniciuslimape-0A66C2?style=flat-square)](https://www.linkedin.com/in/viniciuslimape)
+[![E-mail](https://img.shields.io/badge/E--mail-viniciuslimap.vlp%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:viniciuslimap.vlp@gmail.com)
+
+</div>
