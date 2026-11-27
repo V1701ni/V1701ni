@@ -56,8 +56,8 @@ Gosto de construir software de ponta a ponta: entender quem vai usar, modelar os
   </tr>
   <tr>
     <td nowrap><b>Ferramentas</b></td>
-    <td nowrap><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/git/git-original.svg" width="34" height="34" alt="Git" title="Git" />&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF" /><img src="https://cdn.simpleicons.org/github/181717" width="34" height="34" alt="GitHub" title="GitHub" /></picture>&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/figma/figma-original.svg" width="34" height="34" alt="Figma" title="Figma" />&nbsp;<img src="https://cdn.simpleicons.org/googleads" width="34" height="34" alt="Google Ads" title="Google Ads" /></td>
-    <td><b>Git e GitHub</b> para versionar e publicar · <b>Figma</b> para prototipar telas antes de programar · <b>Google Ads</b> para divulgar os sites e medir conversões</td>
+    <td nowrap><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/git/git-original.svg" width="34" height="34" alt="Git" title="Git" />&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF" /><img src="https://cdn.simpleicons.org/github/181717" width="34" height="34" alt="GitHub" title="GitHub" /></picture>&nbsp;<img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/figma/figma-original.svg" width="34" height="34" alt="Figma" title="Figma" />&nbsp;<img src="https://cdn.simpleicons.org/googleads" width="34" height="34" alt="Google Ads" title="Google Ads" />&nbsp;<img src="https://cdn.simpleicons.org/claude" width="34" height="34" alt="Claude Code" title="Claude Code" /></td>
+    <td><b>Git e GitHub</b> para versionar e publicar · <b>Figma</b> para prototipar telas antes de programar · <b>Google Ads</b> para divulgar os sites e medir conversões · <b>Claude Code</b> para ganhar velocidade no desenvolvimento, revisando e testando o código</td>
   </tr>
 </table>
 
